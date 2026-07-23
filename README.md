@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GEE](https://img.shields.io/badge/Powered%20by-Google%20Earth%20Engine-blue)](https://earthengine.google.com/)
+[![GEE](https://img.shields.io/badge/Powered%20by-Google%20Earth%20Engine-blue)](https://code.earthengine.google.com/5fc025678a63c66f46652b7fd22d84d3)
 
 ---
 
